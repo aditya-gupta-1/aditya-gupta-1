@@ -47,23 +47,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🛡️ **SSH Brute-Force Detection Tool**  
-  → Detected SSH brute-force attempts using Python + Watchdog + SMTP  
-  → Alerted failed login attempts in real time via email
-
-- 🔍 **Forgery Detection System**  
-  → Built with Tesseract, ResNet, BERT, PyTorch & Flask  
-  → Achieved 92% forged doc detection accuracy  
-  → Reduced verification time by 60%
-
-- 🚍 **Smart Bus & Train Ticket Booking System**  
-  → MERN Stack, Stripe API, JWT, Google Maps  
-  → Real-time seat availability, 98% payment success rate
-
----
-
 ### 📊 Most Used Languages
 
 <p align="center">
