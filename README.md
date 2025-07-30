@@ -9,7 +9,7 @@
 - 📊 **CGPA:** 8.93 / 10  
 - 💻 Strong in **C++**, **Java**, Full-stack Application Development, Cloud, and **DevOps**  
 - ☁️ Familiar with **AWS**, **CloudTrail**, **GuardDuty**, **SIEM**, and **penetration testing basics**  
-- 🔐 Keen interest in **DevSecOps**, **cloud security**, and log-based threat detection  
+- 🔐 Keen interest in **Cloud security**, and threat detection  
 - 🛠️ Comfortable with **log analysis**, **threat monitoring**, and **real-time alerts**
 
 ---
